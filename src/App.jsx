@@ -13,7 +13,7 @@ function App() {
   },{
     id:1,
     title:"go get a job",
-    description:"go do it"
+    description:"go"
   }])
 
   function addTodo(){
